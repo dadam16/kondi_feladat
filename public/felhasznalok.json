@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "name": "Kovács Péter",
+    "age": 28,
+    "tipus": "Havi bérlet",
+    "tagsagKezdete": "2026-01-15",
+    "aktiv": true
+  },
+  {
+    "id": 2,
+    "name": "Nagy Anna",
+    "age": 24,
+    "tipus": "Éves bérlet",
+    "tagsagKezdete": "2025-09-10",
+    "aktiv": true
+  },
+  {
+    "id": 3,
+    "name": "Szabó Márk",
+    "age": 35,
+    "tipus": "Negyedéves bérlet",
+    "tagsagKezdete": "2026-02-01",
+    "aktiv": true
+  },
+  {
+    "id": 4,
+    "name": "Tóth Eszter",
+    "age": 21,
+    "tipus": "Havi bérlet",
+    "tagsagKezdete": "2026-03-12",
+    "aktiv": false
+  },
+  {
+    "id": 5,
+    "name": "Horváth Gábor",
+    "age": 42,
+    "tipus": "Éves bérlet",
+    "tagsagKezdete": "2025-06-20",
+    "aktiv": true
+  },
+  {
+    "id": 6,
+    "name": "Varga Dóra",
+    "age": 30,
+    "tipus": "Napi jegy",
+    "tagsagKezdete": "2026-04-05",
+    "aktiv": false
+  },
+  {
+    "id": 7,
+    "name": "Kiss Bence",
+    "age": 26,
+    "tipus": "Negyedéves bérlet",
+    "tagsagKezdete": "2026-02-18",
+    "aktiv": true
+  },
+  {
+    "id": 8,
+    "name": "Molnár Lilla",
+    "age": 19,
+    "tipus": "Havi bérlet",
+    "tagsagKezdete": "2026-05-01",
+    "aktiv": true
+  },
+  {
+    "id": 9,
+    "name": "Farkas Tamás",
+    "age": 38,
+    "tipus": "Éves bérlet",
+    "tagsagKezdete": "2025-11-15",
+    "aktiv": false
+  },
+  {
+    "id": 10,
+    "name": "Balogh Réka",
+    "age": 32,
+    "tipus": "Havi bérlet",
+    "tagsagKezdete": "2026-06-10",
+    "aktiv": true
+  }
+]
