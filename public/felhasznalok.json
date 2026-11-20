@@ -1,5 +1,5 @@
-
-[
+{
+"felhasznalok":[
   {
     "id": 1,
     "name": "Kovács Péter",
@@ -79,5 +79,7 @@
     "tipus": "Havi bérlet",
     "tagsagKezdete": "2026-06-10",
     "aktiv": true
-  }
+  } 
 ]
+  
+}

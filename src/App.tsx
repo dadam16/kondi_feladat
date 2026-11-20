@@ -1,3 +1,4 @@
+import AdminList from "./components/Admin"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <AdminList></AdminList>
     </>
   )
 }

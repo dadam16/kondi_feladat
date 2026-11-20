@@ -1,4 +1,4 @@
-export interface Felhasznalo {
+export type Felhasznalo ={
     id:number;
     name:string;
     age:number;
